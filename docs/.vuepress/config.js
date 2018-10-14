@@ -1,3 +1,3 @@
 module.exports = {
-  title: 'Hello '
+  title: "Takayuki Hara's portfolio"
 }
