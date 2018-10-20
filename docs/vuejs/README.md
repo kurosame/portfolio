@@ -25,7 +25,7 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 # Using Ecosystem
 
 ![Vuex](/vuex.png 'Vuex')
-![TypeScript](/type-script.png 'TypeScript')
+![TypeScript](/typescript.png 'TypeScript')
 ![Sass](/sass.png 'Sass')
 ![Lodash](/lodash.png 'Lodash')
 ![Chart.js](/chartjs.png 'Chart.js')
