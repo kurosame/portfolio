@@ -25,8 +25,10 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 # Using Ecosystem
 
 ![Vuex](/vuex.png 'Vuex')
+![ECMAScript](/ecmascript.png 'ECMAScript')
 ![TypeScript](/typescript.png 'TypeScript')
 ![Sass](/sass.png 'Sass')
+![PostCSS](/postcss.png 'PostCSS')
 ![Lodash](/lodash.png 'Lodash')
 ![Chart.js](/chartjs.png 'Chart.js')
 ![Vuetify](/vuetify.png 'Vuetify')
@@ -35,6 +37,7 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 ![TSLint](/tslint.png 'TSLint')
 ![stylelint](/stylelint.png 'stylelint')
 ![webpack](/webpack.png 'webpack')
+![Babel](/babel.png 'Babel')
 ![Jest](/jest.png 'Jest')
 ![Karma](/karma.png 'Karma')
 ![Puppeteer](/puppeteer.png 'Puppeteer')

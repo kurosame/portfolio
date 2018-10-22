@@ -13,4 +13,6 @@
 
 ## Front-End
 
+[![React](/react.png)](/react/)
 [![Vue.js](/vuejs.png)](/vuejs/)
+[![Angular](/angular.png)](/angular/)
