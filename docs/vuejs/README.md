@@ -40,5 +40,8 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 ![Babel](/babel.png 'Babel')
 ![Jest](/jest.png 'Jest')
 ![Karma](/karma.png 'Karma')
+![Mocha](/mocha.png 'Mocha')
+![Chai](/chai.png 'Chai')
+![PowerAssert](/power-assert.png 'PowerAssert')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
 ![CircleCI](/circleci.png 'CircleCI')
