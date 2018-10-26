@@ -12,5 +12,5 @@
 
 - Cloud Firestore
 - Cloud Storage
-- Firebase Hosting
-- Cloud Functions for Firebase
+- Hosting
+- Cloud Functions
