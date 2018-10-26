@@ -19,4 +19,18 @@
 
 ## Native-Apps
 
+[![Swift](/swift.png 'Swift')](/swift/)
 [![Weex](/weex.png 'Weex')](/weex/)
+
+## Back-End
+
+[![Scala](/scala.png 'Scala')](/scala/)
+[![Go](/go.png 'Go')](/go/)
+[![Python](/python.png 'Python')](/python/)
+[![Java](/java.png 'Java')](/java/)
+[![PHP](/php.png 'PHP')](/php/)
+
+## Infra
+
+[![AWS‎](/aws.png 'AWS‎')](/aws/)
+[![Firebase](/firebase.png 'Firebase')](/firebase/)

@@ -19,11 +19,11 @@ React のエコシステムのトレンドを追って、実装するために�
 
 [GitHub](https://github.com/kurosame/glossary)
 
-Firebase + Material Design を使った用語集アプリ
+Material Design を使った用語集アプリ
 
-## 社内ツールの開発
+## 非公開の社内ツールの開発
 
-非公開の社内ツールをいくつか開発
+- 4 媒体（Facebook、Twitter、YInfeed、LINE）のクリエイティブの実績を可視化するツール
 
 # Using Ecosystem
 
