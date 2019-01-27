@@ -25,7 +25,7 @@ jobs:
             {
               "attachments": [
                 {
-                  "pretext": "portfolio's outdated",
+                  "pretext": "portfolio's Outdated",
                   "text": '$(yarn outdated --json | $(yarn bin)/format-yarn-outdated)',
                   "mrkdwn_in": ["text"]
                 }
