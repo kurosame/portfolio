@@ -7,6 +7,8 @@
 - webpack と React のエコシステムを用いたフロントエンドの開発環境構築
 - Jest と Enzyme を使ったユニットテスト環境構築
 - Jest と Puppeteer を使った E2E テスト環境構築
+- Cypress を使った E2E テスト環境構築
+- CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
 
 # Works
 
@@ -49,5 +51,6 @@ Material Design を使った用語集アプリ
 ![Chai](/chai.png 'Chai')
 ![PowerAssert](/power-assert.png 'PowerAssert')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
+![Cypress](/cypress.png 'Cypress')
 ![Firebase](/firebase.png 'Firebase')
 ![CircleCI](/circleci.png 'CircleCI')

@@ -6,6 +6,9 @@
 - webpack と Vue.js のエコシステムを用いたフロントエンドの開発環境構築
 - Jest と vue-test-utils を使ったユニットテスト環境構築
 - Jest と Puppeteer を使った E2E テスト環境構築
+- Cypress を使った E2E テスト環境構築
+- CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
+- VuePress を使った開発
 
 # Works
 
@@ -13,6 +16,12 @@
 
 Vue.js の開発を始めるための開発・テスト環境を提供  
 Vue.js のエコシステムのトレンドを追って、実装するためにメンテナンスしている
+
+## [自分のポートフォリオを作成（本サイト）](https://portfolio-kurosame.netlify.com)
+
+[GitHub](https://github.com/kurosame/portfolio)
+
+VuePress と Netlify を使って作成
 
 ## [ダッシュボードツールの開発](https://cadashboard.jp)
 
@@ -34,6 +43,7 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 ![Chart.js](/chartjs.png 'Chart.js')
 ![Vuetify](/vuetify.png 'Vuetify')
 ![Element](/element.png 'Element')
+![VuePress](/vuepress.png 'VuePress')
 ![Prettier](/prettier.png 'Prettier')
 ![TSLint](/tslint.png 'TSLint')
 ![stylelint](/stylelint.png 'stylelint')
@@ -45,4 +55,6 @@ Vue.js のエコシステムのトレンドを追って、実装するために�
 ![Chai](/chai.png 'Chai')
 ![PowerAssert](/power-assert.png 'PowerAssert')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
+![Cypress](/cypress.png 'Cypress')
 ![CircleCI](/circleci.png 'CircleCI')
+![Netlify](/netlify.png 'Netlify')
