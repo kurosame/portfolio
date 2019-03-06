@@ -8,6 +8,7 @@
 - Jest と Enzyme を使ったユニットテスト環境構築
 - Jest と Puppeteer を使った E2E テスト環境構築
 - Cypress を使った E2E テスト環境構築
+- Firebase の Cloud Firestore を使ったサーバレスな開発
 - CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
 
 # Works
