@@ -1,5 +1,7 @@
 module.exports = {
   title: "Takayuki Hara's portfolio",
+  head: [['link', { rel: 'manifest', href: '/manifest.json' }]],
+  serviceWorker: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

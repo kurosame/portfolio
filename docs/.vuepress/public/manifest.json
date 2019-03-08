@@ -1,0 +1,14 @@
+{
+  "name": "Takayuki Hara's portfolio",
+  "short_name": "Portfolio",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "black"
+}
