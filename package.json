@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "build:production": "NODE_ENV=production vuepress build docs"
   },
   "devDependencies": {
     "lighthouse": "^4.1.0",
