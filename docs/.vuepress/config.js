@@ -4,7 +4,6 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
-  serviceWorker: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -47,5 +46,14 @@ module.exports = {
       }
     ],
     sidebarDepth: 0
+  },
+  plugins: {
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: {
+        message: 'New content is available.',
+        buttonText: 'Refresh'
+      }
+    }
   }
 }
