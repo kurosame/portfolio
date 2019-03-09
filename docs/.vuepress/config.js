@@ -1,19 +1,22 @@
 module.exports = {
-  title: "Takayuki Hara's portfolio",
+  title: "Takayuki Hara's Portfolio",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '72x72' }],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '114x114' }
+      { rel: 'apple-touch-icon', href: '/favicon-ios.png', sizes: '72x72' }
     ],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '120x120' }
+      { rel: 'apple-touch-icon', href: '/favicon-ios.png', sizes: '114x114' }
     ],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '144x144' }
+      { rel: 'apple-touch-icon', href: '/favicon-ios.png', sizes: '120x120' }
+    ],
+    [
+      'link',
+      { rel: 'apple-touch-icon', href: '/favicon-ios.png', sizes: '144x144' }
     ],
     ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
