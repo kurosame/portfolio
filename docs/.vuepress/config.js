@@ -23,7 +23,13 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/kurosame/portfolio' }
+      { text: 'GitHub', link: 'https://github.com/kurosame' },
+      { text: 'Twitter', link: 'https://twitter.com/kurosame_th' },
+      { text: 'Qiita', link: 'https://qiita.com/kurosame' },
+      { text: 'Hatena Blog', link: 'https://blog.hatena.ne.jp/kurosame-th' },
+      { text: 'Speaker Deck', link: 'https://speakerdeck.com/kurosame' },
+      { text: 'npm', link: 'https://www.npmjs.com/~kurosame' },
+      { text: 'Docker Hub', link: 'https://hub.docker.com/u/kurosame' }
     ],
     sidebar: [
       {
