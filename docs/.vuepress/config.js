@@ -1,6 +1,8 @@
 module.exports = {
   title: "Takayuki Hara's Portfolio",
   head: [
+    ['meta', { name: 'description', content: "Takayuki Hara's Portfolio" }],
+    ['meta', { name: 'theme-color', content: 'white' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     [
       'link',
@@ -51,7 +53,7 @@ module.exports = {
         collapsable: false,
         children: [
           ['/scala/', 'Scala'],
-          ['/go/', 'Go'],
+          ['/golang/', 'Go'],
           ['/python/', 'Python'],
           ['/java/', 'Java'],
           ['/php/', 'PHP']

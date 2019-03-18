@@ -20,7 +20,7 @@
 ## Back-End
 
 [![Scala](/scala.png 'Scala')](/scala/)
-[![Go](/go.png 'Go')](/go/)
+[![Go](/go.png 'Go')](/golang/)
 [![Python](/python.png 'Python')](/python/)
 [![Java](/java.png 'Java')](/java/)
 [![PHP](/php.png 'PHP')](/php/)
