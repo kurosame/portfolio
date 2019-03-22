@@ -53,7 +53,6 @@ VuePress と Netlify を使って作成
 ![Karma](/karma.png 'Karma')
 ![Mocha](/mocha.png 'Mocha')
 ![Chai](/chai.png 'Chai')
-![PowerAssert](/power-assert.png 'PowerAssert')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
 ![Cypress](/cypress.png 'Cypress')
 ![CircleCI](/circleci.png 'CircleCI')

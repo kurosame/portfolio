@@ -50,7 +50,6 @@ Material Design を使った用語集アプリ
 ![Karma](/karma.png 'Karma')
 ![Mocha](/mocha.png 'Mocha')
 ![Chai](/chai.png 'Chai')
-![PowerAssert](/power-assert.png 'PowerAssert')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
 ![Cypress](/cypress.png 'Cypress')
 ![Firebase](/firebase.png 'Firebase')
