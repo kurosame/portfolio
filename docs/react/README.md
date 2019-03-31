@@ -4,6 +4,7 @@
 - Redux を使った Flux の設計と実装
 - Ducks デザインパターンと Redux-Saga を使った構成の設計と実装
 - TypeScript を使った開発
+- Storybook を使った開発
 - webpack と React のエコシステムを用いたフロントエンドの開発環境構築
 - Jest と Enzyme を使ったユニットテスト環境構築
 - Jest と Puppeteer を使った E2E テスト環境構築
@@ -39,6 +40,7 @@ Material Design を使った用語集アプリ
 ![styled-components](/styled-components.png 'styled-components')
 ![Lodash](/lodash.png 'Lodash')
 ![Material-UI](/material-ui.png 'Material-UI')
+![Storybook](/storybook.png 'Storybook')
 ![Prettier](/prettier.png 'Prettier')
 ![TSLint](/tslint.png 'TSLint')
 ![stylelint](/stylelint.png 'stylelint')

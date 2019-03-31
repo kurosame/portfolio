@@ -3,6 +3,7 @@
 - Vue.js コンポーネントの設計と実装
 - Vuex を使った Flux の設計と実装
 - TypeScript を使った開発
+- Storybook を使った開発
 - webpack と Vue.js のエコシステムを用いたフロントエンドの開発環境構築
 - Jest と vue-test-utils を使ったユニットテスト環境構築
 - Jest と Puppeteer を使った E2E テスト環境構築
@@ -43,6 +44,7 @@ VuePress と Netlify を使って作成
 ![Chart.js](/chartjs.png 'Chart.js')
 ![Vuetify](/vuetify.png 'Vuetify')
 ![Element](/element.png 'Element')
+![Storybook](/storybook.png 'Storybook')
 ![VuePress](/vuepress.png 'VuePress')
 ![Prettier](/prettier.png 'Prettier')
 ![TSLint](/tslint.png 'TSLint')
