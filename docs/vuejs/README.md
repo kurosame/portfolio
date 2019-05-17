@@ -2,6 +2,7 @@
 
 - Vue.js コンポーネントの設計と実装
 - Vuex を使った Flux の設計と実装
+- Web Worker の実装
 - TypeScript を使った開発
 - Storybook を使った開発
 - webpack と Vue.js のエコシステムを用いたフロントエンドの開発環境構築
