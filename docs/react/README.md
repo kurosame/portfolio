@@ -19,7 +19,7 @@
 React の開発を始めるための開発・テスト環境を提供  
 React のエコシステムのトレンドを追って、実装するためにメンテナンスしている
 
-## [用語集アプリ（作成中）](https://glossary-kurosame.firebaseapp.com)
+## [用語集アプリ](https://glossary-kurosame.firebaseapp.com)
 
 [GitHub](https://github.com/kurosame/glossary)
 

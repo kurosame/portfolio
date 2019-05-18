@@ -2,7 +2,7 @@
 
 # Works
 
-## [用語集アプリ（作成中）](https://glossary-kurosame.firebaseapp.com)
+## [用語集アプリ](https://glossary-kurosame.firebaseapp.com)
 
 [GitHub](https://github.com/kurosame/glossary)
 
