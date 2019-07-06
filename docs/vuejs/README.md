@@ -10,6 +10,7 @@
 - Jest と Puppeteer を使った E2E テスト環境構築
 - Cypress を使った E2E テスト環境構築
 - CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
+- Nuxt.js を使った開発
 - VuePress を使った開発
 
 # Works
@@ -19,11 +20,16 @@
 Vue.js の開発を始めるための開発・テスト環境を提供  
 Vue.js のエコシステムのトレンドを追って、実装するためにメンテナンスしている
 
+## [イベントサーチ](https://event-search.netlify.com)
+
+Nuxt.js を使って作成  
+API を提供している IT 系のイベントサイトからイベント一覧を取得し、表示する
+
 ## [自分のポートフォリオを作成（本サイト）](https://portfolio-kurosame.netlify.com)
 
 [GitHub](https://github.com/kurosame/portfolio)
 
-VuePress と Netlify を使って作成
+VuePress を使って作成
 
 ## [ダッシュボードツールの開発](https://cadashboard.jp)
 
@@ -46,6 +52,7 @@ VuePress と Netlify を使って作成
 ![Vuetify](/vuetify.png 'Vuetify')
 ![Element](/element.png 'Element')
 ![Storybook](/storybook.png 'Storybook')
+![Nuxt.js](/nuxtjs.png 'Nuxt.js')
 ![VuePress](/vuepress.png 'VuePress')
 ![Prettier](/prettier.png 'Prettier')
 ![TSLint](/tslint.png 'TSLint')
