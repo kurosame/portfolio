@@ -10,7 +10,7 @@
     "vuepress": "^1.0.2"
   },
   "devDependencies": {
-    "lighthouse": "^5.1.0",
+    "lighthouse": "^4.2.0",
     "yarn-outdated-formatter": "^2.1.0"
   }
 }
