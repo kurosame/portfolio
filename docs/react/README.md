@@ -2,7 +2,7 @@
 
 - React コンポーネントの設計と実装
 - Redux を使った Flux の設計と実装
-- Ducks デザインパターンと Redux-Saga を使った構成の設計と実装
+- Ducks デザインパターンの設計と実装
 - TypeScript を使った開発
 - Storybook を使った開発
 - webpack と React のエコシステムを用いたフロントエンドの開発環境構築
@@ -23,11 +23,15 @@ React のエコシステムのトレンドを追って、実装するために�
 
 [GitHub](https://github.com/kurosame/glossary)
 
-Material Design を使った用語集アプリ
+用語の一覧と検索機能がある簡易アプリ
+
+- Material Design
+- Google 認証付き
+- Storage にアップロードしたファイルを Functions で処理して、Firestore に保存している
 
 ## 非公開の社内ツールの開発
 
-- 4 媒体（Facebook、Twitter、YInfeed、LINE）のクリエイティブの実績を可視化するツール
+- 4 媒体（Facebook、Twitter、YInfeed、LINE）のクリエイティブごとの実績を可視化するツール
 
 # Using Ecosystem
 
