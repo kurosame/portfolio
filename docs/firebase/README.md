@@ -1,5 +1,8 @@
 # PR
 
+- ML 以外は一通り利用した
+- 仕事での利用経験は無く、全てプライベートで作成したアプリで利用
+
 # Works
 
 ## [用語集アプリ](https://glossary-kurosame.firebaseapp.com)

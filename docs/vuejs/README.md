@@ -1,35 +1,12 @@
 # PR
 
-- Vue.js コンポーネントの設計と実装
-- Vuex を使った Flux の設計と実装
-- Web Worker の実装
-- TypeScript を使った開発
-- Storybook を使った開発
-- webpack と Vue.js のエコシステムを用いたフロントエンドの開発環境構築
-- Jest と vue-test-utils を使ったユニットテスト環境構築
-- Jest と Puppeteer を使った E2E テスト環境構築
-- Cypress を使った E2E テスト環境構築
-- CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
-- Nuxt.js を使った開発
-- VuePress を使った開発
+- 仕事とプライベートでそれなりに経験がある
+- 最初の技術の選定や設計を考えることができる
+- 開発環境やテスト環境を 1 から構築できる
+- ある程度のトレンドは追っているので、新しい技術の検証や導入を行える
+- React よりも Vue.js の方が得意
 
 # Works
-
-## [ボイラープレート](https://github.com/kurosame/vuejs-boilerplate)
-
-Vue.js の開発を始めるための開発・テスト環境を提供  
-Vue.js のエコシステムのトレンドを追って、実装するためにメンテナンスしている
-
-## [イベントサーチ](https://event-search.netlify.com)
-
-Nuxt.js を使って作成  
-API を提供している IT 系のイベントサイトからイベント一覧を取得し、表示する
-
-## [自分のポートフォリオを作成（本サイト）](https://portfolio-kurosame.netlify.com)
-
-[GitHub](https://github.com/kurosame/portfolio)
-
-VuePress を使って作成
 
 ## [ダッシュボードツールの開発](https://cadashboard.jp)
 
@@ -41,6 +18,12 @@ VuePress を使って作成
 
 - クリエイティブの管理を行うツール
   - お客様とオペレーターでアプリ上でやり取りでき、クリエイティブのレビューなどが行える
+
+## 小規模なアプリの開発
+
+- [ボイラープレート](https://github.com/kurosame/vuejs-boilerplate)
+- [イベントサーチ（Nuxt.js）](https://event-search.netlify.com)
+- [ポートフォリオ（本サイト）（VuePress）](https://portfolio-kurosame.netlify.com)
 
 # Using Ecosystem
 

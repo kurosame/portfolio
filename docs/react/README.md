@@ -1,23 +1,11 @@
 # PR
 
-- React コンポーネントの設計と実装
-- Redux を使った Flux の設計と実装
-- Ducks デザインパターンの設計と実装
-- TypeScript を使った開発
-- Storybook を使った開発
-- webpack と React のエコシステムを用いたフロントエンドの開発環境構築
-- Jest と Enzyme を使ったユニットテスト環境構築
-- Jest と Puppeteer を使った E2E テスト環境構築
-- Cypress を使った E2E テスト環境構築
-- Firebase の Cloud Firestore を使ったサーバレスな開発
-- CircleCI を使ったビルド、デプロイ、ユニットテスト、E2E テスト、その他作業の自動化
+- 仕事とプライベートでそれなりに経験がある
+- 最初の技術の選定や設計を考えることができる
+- 開発環境やテスト環境を 1 から構築できる
+- ある程度のトレンドは追っているので、新しい技術の検証や導入を行える
 
 # Works
-
-## [ボイラープレート](https://github.com/kurosame/react-boilerplate)
-
-React の開発を始めるための開発・テスト環境を提供  
-React のエコシステムのトレンドを追って、実装するためにメンテナンスしている
 
 ## [用語集アプリ](https://glossary-kurosame.firebaseapp.com)
 
@@ -32,6 +20,10 @@ React のエコシステムのトレンドを追って、実装するために�
 ## 非公開の社内ツールの開発
 
 - 4 媒体（Facebook、Twitter、YInfeed、LINE）のクリエイティブごとの実績を可視化するツール
+
+## 小規模なアプリの開発
+
+- [ボイラープレート](https://github.com/kurosame/react-boilerplate)
 
 # Using Ecosystem
 

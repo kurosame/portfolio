@@ -1,15 +1,16 @@
 # PR
 
-- Support Vector Regression を利用した機械学習モデルを scikit-learn の SVR クラスを使って構築
+- scikit-learn を利用
+- 仕事での利用経験は無く、全てプライベートで作成したアプリで利用
 
 # Works
 
-## 機械学習を利用したロト 6 の当選番号予測モデル（非公開）
+## 小規模なアプリの開発
 
-SVR モデルを使い、ロト 6 の当選番号を予測する機械学習モデルを構築
-
-プログラムは公開していないが、やったことは以下の記事にまとめた  
-[ロト 6 の当選番号を機械学習を使って予測する](https://kurosame-th.hatenadiary.com/entry/2019/03/30/204921)
+- ロト 6 当選番号予測アプリ
+  - [書いた記事](https://kurosame-th.hatenadiary.com/entry/2019/03/30/204921)
+- [天気通知アプリ](https://github.com/kurosame/bots-python/blob/master/bots/weather.py)
+  - [書いた記事](https://qiita.com/kurosame/items/b6dbc5a7d900e6dc2b6f)
 
 # Using Ecosystem
 
