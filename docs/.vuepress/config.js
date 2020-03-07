@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Takayuki Hara's Portfolio",
+  title: 'Portfolio',
   head: [
     ['meta', { name: 'description', content: "Takayuki Hara's Portfolio" }],
     ['meta', { name: 'theme-color', content: 'white' }],
@@ -46,7 +46,10 @@ module.exports = {
       {
         title: 'Native-Apps',
         collapsable: false,
-        children: [['/swift/', 'Swift'], ['/weex/', 'Weex']]
+        children: [
+          ['/swift/', 'Swift'],
+          ['/weex/', 'Weex']
+        ]
       },
       {
         title: 'Back-End',
