@@ -1,7 +1,7 @@
 # PR
 
 - scikit-learn を利用
-- 仕事での利用経験は無く、全てプライベートで作成したアプリで利用
+- 仕事での利用経験はなく、すべてプライベートで利用
 
 # Works
 
@@ -15,3 +15,4 @@
 # Using Ecosystem
 
 ![scikit-learn](/scikit-learn.png 'scikit-learn')
+![CircleCI](/circleci.png 'CircleCI')
