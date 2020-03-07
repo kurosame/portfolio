@@ -16,3 +16,4 @@
 
 ![scikit-learn](/scikit-learn.png 'scikit-learn')
 ![CircleCI](/circleci.png 'CircleCI')
+![GitHub Actions](/github-actions.png 'GitHub Actions')
