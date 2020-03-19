@@ -45,7 +45,8 @@ module.exports = {
         collapsable: false,
         children: [
           ['/swift/', 'Swift'],
-          ['/weex/', 'Weex']
+          ['/weex/', 'Weex'],
+          ['/flutter/', 'Flutter']
         ]
       },
       {

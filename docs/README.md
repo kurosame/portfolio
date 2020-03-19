@@ -26,6 +26,7 @@
 
 [![Swift](/swift.png 'Swift')](/swift/)
 [![Weex](/weex.png 'Weex')](/weex/)
+[![Flutter](/flutter.png 'Flutter')](/flutter/)
 
 ## Back-End
 
