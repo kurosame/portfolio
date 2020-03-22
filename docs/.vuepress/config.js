@@ -37,7 +37,8 @@ module.exports = {
         children: [
           ['/react/', 'React'],
           ['/vuejs/', 'Vue.js'],
-          ['/angular/', 'Angular']
+          ['/angular/', 'Angular'],
+          ['/dart/', 'Dart']
         ]
       },
       {

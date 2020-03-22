@@ -21,6 +21,7 @@
 [![React](/react.png 'React')](/react/)
 [![Vue.js](/vuejs.png 'Vue.js')](/vuejs/)
 [![Angular](/angular.png 'Angular')](/angular/)
+[![Dart](/dart.png 'Dart')](/dart/)
 
 ## Native-Apps
 
