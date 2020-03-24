@@ -49,6 +49,8 @@
 ![Karma](/karma.png 'Karma')
 ![Mocha](/mocha.png 'Mocha')
 ![Chai](/chai.png 'Chai')
+![Enzyme](/enzyme.png 'Enzyme')
+![React Testing Library](/react-testing-library.png 'React Testing Library')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
 ![Cypress](/cypress.png 'Cypress')
 ![Firebase](/firebase.png 'Firebase')

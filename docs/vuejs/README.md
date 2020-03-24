@@ -48,6 +48,7 @@
 ![Karma](/karma.png 'Karma')
 ![Mocha](/mocha.png 'Mocha')
 ![Chai](/chai.png 'Chai')
+![Vue Test Utils](/vue-test-utils.png 'Vue Test Utils')
 ![Puppeteer](/puppeteer.png 'Puppeteer')
 ![Cypress](/cypress.png 'Cypress')
 ![CircleCI](/circleci.png 'CircleCI')
