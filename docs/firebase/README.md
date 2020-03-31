@@ -11,9 +11,9 @@
 用語の一覧と検索機能がある簡易アプリ
 
 - Material Design
-- Google 認証
-- Storage にアップロードしたファイルを Functions で処理して、Firestore に保存している
-- Web プッシュ通知
+- Google 認証（Firebase Authentication）
+- DB は Firebase（Storage にアップロードしたファイルを Functions で処理して、Firestore に保存している）
+- Web プッシュ通知（Firebase Cloud Messaging + Service Worker）
 
 # Using Ecosystem
 
