@@ -32,6 +32,7 @@
 ![TypeScript](/typescript.png 'TypeScript')
 ![Sass](/sass.png 'Sass')
 ![PostCSS](/postcss.png 'PostCSS')
+![Ramda](/ramda.png 'Ramda')
 ![Lodash](/lodash.png 'Lodash')
 ![Chart.js](/chartjs.png 'Chart.js')
 ![Vuetify](/vuetify.png 'Vuetify')
