@@ -15,5 +15,6 @@
 # Using Ecosystem
 
 ![scikit-learn](/scikit-learn.png 'scikit-learn')
+![Selenium](/selenium.png 'Selenium')
 ![CircleCI](/circleci.png 'CircleCI')
 ![GitHub Actions](/github-actions.png 'GitHub Actions')
