@@ -37,7 +37,6 @@ module.exports = {
         children: [
           ['/react/', 'React'],
           ['/vuejs/', 'Vue.js'],
-          ['/angular/', 'Angular'],
           ['/dart/', 'Dart']
         ]
       },
@@ -46,7 +45,6 @@ module.exports = {
         collapsable: false,
         children: [
           ['/swift/', 'Swift'],
-          ['/weex/', 'Weex'],
           ['/flutter/', 'Flutter']
         ]
       },
@@ -56,9 +54,7 @@ module.exports = {
         children: [
           ['/scala/', 'Scala'],
           ['/golang/', 'Go'],
-          ['/python/', 'Python'],
-          ['/java/', 'Java'],
-          ['/php/', 'PHP']
+          ['/python/', 'Python']
         ]
       },
       {
@@ -68,6 +64,16 @@ module.exports = {
           ['/aws/', 'AWS‎'],
           ['/firebase/', 'Firebase'],
           ['/digdag/', 'Digdag']
+        ]
+      },
+      {
+        title: 'Other',
+        collapsable: false,
+        children: [
+          ['/angular/', 'Angular'],
+          ['/weex/', 'Weex'],
+          ['/java/', 'Java'],
+          ['/php/', 'PHP']
         ]
       }
     ],
