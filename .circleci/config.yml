@@ -17,7 +17,7 @@ jobs:
             - v1-dependencies-
       - run:
           name: Install dependencies
-          command: npm install
+          command: npm ci
       - save_cache:
           name: Cache dependencies
           paths:
@@ -48,7 +48,7 @@ jobs:
             - v1-dependencies-
       - run:
           name: Install dependencies
-          command: npm install
+          command: npm ci
       - save_cache:
           name: Cache dependencies
           paths:
