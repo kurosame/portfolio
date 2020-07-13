@@ -16,8 +16,8 @@ jobs:
             - v1-dependencies-{{ checksum "package-lock.json" }}
             - v1-dependencies-
       - run:
-          name: Install
-          command: npm ci
+          name: Install dependencies
+          command: npm install
       - save_cache:
           name: Cache dependencies
           paths:
@@ -47,8 +47,8 @@ jobs:
             - v1-dependencies-{{ checksum "package-lock.json" }}
             - v1-dependencies-
       - run:
-          name: Install
-          command: npm ci
+          name: Install dependencies
+          command: npm install
       - save_cache:
           name: Cache dependencies
           paths:
