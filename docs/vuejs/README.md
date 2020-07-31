@@ -58,3 +58,4 @@
 ![Netlify](/netlify.png 'Netlify')
 ![Vercel](/vercel.png 'Vercel')
 ![Cloudinary](/cloudinary.png 'Cloudinary')
+![microCMS](/microcms.png 'microCMS')
