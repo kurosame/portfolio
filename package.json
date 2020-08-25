@@ -6,10 +6,10 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "@vuepress/plugin-pwa": "^1.5.2",
-    "vuepress": "^1.5.2"
+    "@vuepress/plugin-pwa": "^1.5.4",
+    "vuepress": "^1.5.4"
   },
   "devDependencies": {
-    "lighthouse": "^6.1.1"
+    "lighthouse": "^6.2.0"
   }
 }
