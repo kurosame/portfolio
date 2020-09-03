@@ -2,7 +2,7 @@ references:
   commands:
     setup-docker: &setup-docker
       docker:
-        - image: kurosame/circleci-node
+        - image: circleci/node:10.17.0
 
 version: 2
 jobs:
@@ -13,8 +13,8 @@ jobs:
       - restore_cache:
           name: Download and cache dependencies
           keys:
-            - v1-dependencies-{{ checksum "package-lock.json" }}
-            - v1-dependencies-
+            - v2-dependencies-{{ checksum "package-lock.json" }}
+            - v2-dependencies-
       - run:
           name: Install dependencies
           command: npm ci
@@ -22,7 +22,7 @@ jobs:
           name: Cache dependencies
           paths:
             - ~/.npm
-          key: v1-dependencies-{{ checksum "package-lock.json" }}
+          key: v2-dependencies-{{ checksum "package-lock.json" }}
       - run:
           name: Outdated
           command: |
@@ -44,8 +44,8 @@ jobs:
       - restore_cache:
           name: Download and cache dependencies
           keys:
-            - v1-dependencies-{{ checksum "package-lock.json" }}
-            - v1-dependencies-
+            - v2-dependencies-{{ checksum "package-lock.json" }}
+            - v2-dependencies-
       - run:
           name: Install dependencies
           command: npm ci
@@ -53,7 +53,7 @@ jobs:
           name: Cache dependencies
           paths:
             - ~/.npm
-          key: v1-dependencies-{{ checksum "package-lock.json" }}
+          key: v2-dependencies-{{ checksum "package-lock.json" }}
       - run:
           name: Lighthouse
           command: ./node_modules/.bin/lighthouse --chrome-flags="--headless --no-sandbox" --output-path=./lighthouse-results.html $PORTFOLIO_APP_URL
