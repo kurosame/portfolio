@@ -1,13 +1,16 @@
 references:
   commands:
-    setup-docker: &setup-docker
+    setup-docker-base: &setup-docker-base
       docker:
         - image: circleci/node:10.17.0
+    setup-docker-lighthouse: &setup-docker-lighthouse
+      docker:
+        - image: circleci/node:10.17.0-browsers
 
 version: 2
 jobs:
   outdated:
-    <<: *setup-docker
+    <<: *setup-docker-base
     steps:
       - checkout
       - restore_cache:
@@ -38,7 +41,7 @@ jobs:
             EOF`
             curl -X POST -d "payload=$PAYLOAD" $SLACK_WEBHOOK_URL
   lighthouse:
-    <<: *setup-docker
+    <<: *setup-docker-lighthouse
     steps:
       - checkout
       - restore_cache:
