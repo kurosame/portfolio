@@ -25,6 +25,7 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/kurosame' },
       { text: 'Twitter', link: 'https://twitter.com/kurosame_th' },
       { text: 'Qiita', link: 'https://qiita.com/kurosame' },
+      { text: 'Zenn', link: 'https://zenn.dev/kurosame' },
       { text: 'Hatena Blog', link: 'https://blog.hatena.ne.jp/kurosame-th' },
       { text: 'Speaker Deck', link: 'https://speakerdeck.com/kurosame' },
       { text: 'npm', link: 'https://www.npmjs.com/~kurosame' },
