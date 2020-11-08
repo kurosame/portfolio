@@ -60,3 +60,4 @@
 ![Vercel](/vercel.png 'Vercel')
 ![Cloudinary](/cloudinary.png 'Cloudinary')
 ![microCMS](/microcms.png 'microCMS')
+![Google Analytics](/google-analytics.png 'Google Analytics')
