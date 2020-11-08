@@ -28,7 +28,7 @@
 # Using Ecosystem
 
 ![Vuex](/vuex.png 'Vuex')
-![VeeValidate](/vee-validate.png 'VeeValidate')
+![VeeValidate](/veevalidate.png 'VeeValidate')
 ![ECMAScript](/ecmascript.png 'ECMAScript')
 ![TypeScript](/typescript.png 'TypeScript')
 ![Sass](/sass.png 'Sass')
@@ -59,5 +59,6 @@
 ![Netlify](/netlify.png 'Netlify')
 ![Vercel](/vercel.png 'Vercel')
 ![Cloudinary](/cloudinary.png 'Cloudinary')
+![SendGrid](/sendgrid.png 'SendGrid')
 ![microCMS](/microcms.png 'microCMS')
 ![Google Analytics](/google-analytics.png 'Google Analytics')
