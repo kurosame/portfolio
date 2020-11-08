@@ -28,6 +28,7 @@
 # Using Ecosystem
 
 ![Vuex](/vuex.png 'Vuex')
+![VeeValidate](/vee-validate.png 'VeeValidate')
 ![ECMAScript](/ecmascript.png 'ECMAScript')
 ![TypeScript](/typescript.png 'TypeScript')
 ![Sass](/sass.png 'Sass')
