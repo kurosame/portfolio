@@ -80,6 +80,11 @@ module.exports = {
     ],
     sidebar: [
       {
+        title: 'Design',
+        collapsable: false,
+        children: [['/figma/', 'Figma']]
+      },
+      {
         title: 'Front-End',
         collapsable: false,
         children: [
