@@ -22,14 +22,61 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/kurosame' },
-      { text: 'Twitter', link: 'https://twitter.com/kurosame_th' },
-      { text: 'Qiita', link: 'https://qiita.com/kurosame' },
-      { text: 'Zenn', link: 'https://zenn.dev/kurosame' },
-      { text: 'Hatena Blog', link: 'https://blog.hatena.ne.jp/kurosame-th' },
-      { text: 'Speaker Deck', link: 'https://speakerdeck.com/kurosame' },
-      { text: 'npm', link: 'https://www.npmjs.com/~kurosame' },
-      { text: 'Docker Hub', link: 'https://hub.docker.com/u/kurosame' }
+      {
+        text: 'OSS',
+        items: [
+          {
+            text: 'GitHub',
+            link: 'https://github.com/kurosame',
+            target: '_blank'
+          },
+          {
+            text: 'npm',
+            link: 'https://www.npmjs.com/~kurosame',
+            target: '_blank'
+          },
+          {
+            text: 'Docker Hub',
+            link: 'https://hub.docker.com/u/kurosame',
+            target: '_blank'
+          }
+        ]
+      },
+      {
+        text: 'Article',
+        items: [
+          {
+            text: 'Qiita',
+            link: 'https://qiita.com/kurosame',
+            target: '_blank'
+          },
+          {
+            text: 'Zenn',
+            link: 'https://zenn.dev/kurosame',
+            target: '_blank'
+          },
+          {
+            text: 'Hatena Blog',
+            link: 'https://blog.hatena.ne.jp/kurosame-th',
+            target: '_blank'
+          },
+          {
+            text: 'Speaker Deck',
+            link: 'https://speakerdeck.com/kurosame',
+            target: '_blank'
+          }
+        ]
+      },
+      {
+        text: 'SNS',
+        items: [
+          {
+            text: 'Twitter',
+            link: 'https://twitter.com/kurosame_th',
+            target: '_blank'
+          }
+        ]
+      }
     ],
     sidebar: [
       {
