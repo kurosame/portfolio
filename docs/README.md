@@ -43,6 +43,7 @@
 [![AWS‎](/aws.png 'AWS‎')](/aws/)
 [![Firebase](/firebase.png 'Firebase')](/firebase/)
 [![Digdag](/digdag.png 'Digdag')](/digdag/)
+[![Datadog](/datadog.png 'Datadog')](/datadog/)
 
 ## Other
 

@@ -116,7 +116,8 @@ module.exports = {
         children: [
           ['/aws/', 'AWS‎'],
           ['/firebase/', 'Firebase'],
-          ['/digdag/', 'Digdag']
+          ['/digdag/', 'Digdag'],
+          ['/datadog/', 'Datadog']
         ]
       },
       {
