@@ -4,47 +4,26 @@
 | ---- | ------------- |
 | Name | Hara Takayuki |
 
-# Summary
+# PR
 
 - インターネット広告、クリエイティブを管理する BI ツールを作り続けてきたため、アドテクのシステム作りのノウハウがあります
 - フロントエンドが 1 番得意で、技術選定・環境構築から開発・テストなど全般的にできます
 - 半年〜1 年程の長期プロジェクトをリーダーとして計画からリリースまで行った経験があります
 
-# Skill
+# Works
 
-## Design
+## Business
 
-[![Figma](/figma.png 'Figma')](/figma/)
+| [![CAP](/works/private.png '振り返りレポート生成')](/cap/) | [![CA Dashboard](/works/ca-dashboard.png 'CA Dashboard')](/cad/) | [![CB](/works/private.png 'クリエイティブ分析のアプリ')](/cb/) |
+| ---------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| **振り返りレポート生成**                                   | **CA Dashboard**                                                 | **クリエイティブ分析のアプリ**                                 |
 
-## Front-End
+| [![SS](/works/private.png '広告系ポータルサイト')](/ss/) | ![No Image](/works/no-image.png 'No Image') | ![No Image](/works/no-image.png 'No Image') |
+| -------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| **広告系ポータルサイト**                                 |                                             |                                             |
 
-[![React](/react.png 'React')](/react/)
-[![Vue.js](/vuejs.png 'Vue.js')](/vuejs/)
-[![Dart](/dart.png 'Dart')](/dart/)
+## Private
 
-## Native-Apps
-
-[![Swift](/swift.png 'Swift')](/swift/)
-[![Flutter](/flutter.png 'Flutter')](/flutter/)
-
-## Back-End
-
-[![Scala](/scala.png 'Scala')](/scala/)
-[![Go](/go.png 'Go')](/golang/)
-[![Python](/python.png 'Python')](/python/)
-
-## Infra
-
-[![AWS‎](/aws.png 'AWS‎')](/aws/)
-[![Firebase](/firebase.png 'Firebase')](/firebase/)
-[![Digdag](/digdag.png 'Digdag')](/digdag/)
-[![Datadog](/datadog.png 'Datadog')](/datadog/)
-
-## Other
-
-過去に経験はあるが、現在は学習していない技術
-
-[![Angular](/angular.png 'Angular')](/angular/)
-[![Weex](/weex.png 'Weex')](/weex/)
-[![Java](/java.png 'Java')](/java/)
-[![PHP](/php.png 'PHP')](/php/)
+| [![Luna HP](/works/luna-hp.png '広告漫画家の仕事用ウェブサイト')](/luna-hp/) | [![Glossary](/works/glossary.png '用語集アプリ')](/glossary/) | [![Other](/works/other.png '小規模なアプリなど')](/other/) |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| **広告漫画家の仕事用ウェブサイト**                                           | **用語集アプリ**                                              | **小規模なアプリなど**                                     |

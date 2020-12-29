@@ -26,7 +26,12 @@ module.exports = {
         text: 'OSS',
         items: [
           {
-            text: 'GitHub',
+            text: 'GitHub [Business]',
+            link: 'https://github.com/hara-takayuki',
+            target: '_blank'
+          },
+          {
+            text: 'GitHub [Private]',
             link: 'https://github.com/kurosame',
             target: '_blank'
           },
@@ -80,54 +85,28 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Design',
-        collapsable: false,
-        children: [['/figma/', 'Figma']]
-      },
-      {
-        title: 'Front-End',
+        title: 'Works',
         collapsable: false,
         children: [
-          ['/react/', 'React'],
-          ['/vuejs/', 'Vue.js'],
-          ['/dart/', 'Dart']
-        ]
-      },
-      {
-        title: 'Native-Apps',
-        collapsable: false,
-        children: [
-          ['/swift/', 'Swift'],
-          ['/flutter/', 'Flutter']
-        ]
-      },
-      {
-        title: 'Back-End',
-        collapsable: false,
-        children: [
-          ['/scala/', 'Scala'],
-          ['/golang/', 'Go'],
-          ['/python/', 'Python']
-        ]
-      },
-      {
-        title: 'Infra',
-        collapsable: false,
-        children: [
-          ['/aws/', 'AWS‎'],
-          ['/firebase/', 'Firebase'],
-          ['/digdag/', 'Digdag'],
-          ['/datadog/', 'Datadog']
-        ]
-      },
-      {
-        title: 'Other',
-        collapsable: false,
-        children: [
-          ['/angular/', 'Angular'],
-          ['/weex/', 'Weex'],
-          ['/java/', 'Java'],
-          ['/php/', 'PHP']
+          {
+            title: 'Business',
+            collapsable: false,
+            children: [
+              ['/cap/', '振り返りレポート生成 [非公開]'],
+              ['/cad/', 'CA Dashboard'],
+              ['/cb/', 'クリエイティブ分析のアプリ [非公開]'],
+              ['/ss/', '広告系ポータルサイト [非公開]']
+            ]
+          },
+          {
+            title: 'Private',
+            collapsable: false,
+            children: [
+              ['/luna-hp/', '広告漫画家の仕事用ウェブサイト'],
+              ['/glossary/', '用語集アプリ'],
+              ['/other/', '小規模なアプリなど']
+            ]
+          }
         ]
       }
     ],
