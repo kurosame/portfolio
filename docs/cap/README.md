@@ -40,6 +40,7 @@ Composition API で実装
 
 ## AWS‎
 
+- CloudFront
 - AssumeRole
 
 ## Dev
