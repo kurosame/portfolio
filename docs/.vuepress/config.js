@@ -92,6 +92,7 @@ module.exports = {
             title: 'Business',
             collapsable: false,
             children: [
+              ['/dorsia/', '媒体入稿システム [非公開]'],
               ['/cap/', '振り返りレポート生成 [非公開]'],
               ['/cad/', 'CA Dashboard'],
               ['/cb/', 'クリエイティブ分析のアプリ [非公開]'],
