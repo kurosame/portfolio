@@ -14,6 +14,7 @@ API 入稿は行わず、入稿用バルクを出力する
 # Technology
 
 ![React](/tools/react.png 'React')
+![Terraform](/tools/terraform.png 'Terraform')
 
 # Ecosystem
 
@@ -30,3 +31,4 @@ React hooks で実装
 ![Storybook](/tools/storybook.png 'Storybook')
 ![Jest](/tools/jest.png 'Jest')
 ![React Testing Library](/tools/react-testing-library.png 'React Testing Library')
+![CircleCI](/tools/circleci.png 'CircleCI')
