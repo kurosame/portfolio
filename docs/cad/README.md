@@ -25,6 +25,7 @@ Datadog の設定
 
 ## 担当領域
 
+- UI/UX デザイン（一部画面）
 - フロントエンド
 - API
 - インフラ
@@ -35,6 +36,7 @@ Datadog の設定
 
 # Technology
 
+![Figma](/tools/figma.png 'Figma')
 ![Vue.js](/tools/vuejs.png 'Vue.js')
 ![Scala](/tools/scala.png 'Scala')
 ![AWS‎](/tools/aws.png 'AWS‎')
