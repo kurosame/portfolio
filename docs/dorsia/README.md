@@ -14,7 +14,7 @@ API 入稿は行わず、入稿用バルクを出力する
 # Technology
 
 ![React](/tools/react.png 'React')
-![Terraform](/tools/terraform.png 'Terraform')
+![AWS‎](/tools/aws.png 'AWS‎')
 
 # Ecosystem
 
@@ -22,13 +22,21 @@ API 入稿は行わず、入稿用バルクを出力する
 
 ![Next.js](/tools/nextjs.png 'Next.js')
 ![TypeScript](/tools/typescript.png 'TypeScript')
+![SWR](/tools/swr.png 'SWR')
 ![Semantic UI React](/tools/semantic-ui-react.png 'Semantic UI React')
+![Tailwind CSS](/tools/tailwind-css.png 'Tailwind CSS')
 
-React hooks で実装
+React Hooks で実装
+
+## AWS‎
+
+- CloudFront
 
 ## Dev
 
 ![Storybook](/tools/storybook.png 'Storybook')
 ![Jest](/tools/jest.png 'Jest')
 ![React Testing Library](/tools/react-testing-library.png 'React Testing Library')
+![React Hooks Testing Library](/tools/react-hooks-testing-library.png 'React Hooks Testing Library')
 ![CircleCI](/tools/circleci.png 'CircleCI')
+![Terraform](/tools/terraform.png 'Terraform')
