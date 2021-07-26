@@ -94,7 +94,7 @@ module.exports = {
             children: [
               ['/dorsia/', '媒体入稿システム [非公開]'],
               ['/cap/', '振り返りレポート生成 [非公開]'],
-              ['/cad/', 'CA Dashboard'],
+              ['/cabi/', 'CA Dashboard'],
               ['/cb/', 'クリエイティブ分析のアプリ [非公開]'],
               ['/ss/', '広告系ポータルサイト [非公開]']
             ]
@@ -103,6 +103,7 @@ module.exports = {
             title: 'Private',
             collapsable: false,
             children: [
+              ['/tvquery/', 'テレビ番組検索'],
               ['/luna-hp/', '広告漫画家の仕事用ウェブサイト'],
               ['/glossary/', '用語集アプリ'],
               ['/other/', '小規模なアプリなど']
