@@ -15,7 +15,7 @@
 - メール配信
   - SendGrid
 - ホスティング
-  - Vercel
+  - Cloudflare
 - CMS
   - microCMS
 - 監視
@@ -24,7 +24,7 @@
 
 # Hosting
 
-[ウェブサイト](https://luna-hp.vercel.app)
+[ウェブサイト](https://luna-hp.pages.dev)
 
 # Technology
 
@@ -45,7 +45,7 @@ Composition API で実装
 
 ![Cloudinary](/tools/cloudinary.png 'Cloudinary')
 ![SendGrid](/tools/sendgrid.png 'SendGrid')
-![Vercel](/tools/vercel.png 'Vercel')
+![Cloudflare](/tools/cloudflare.png 'Cloudflare')
 ![microCMS](/tools/microcms.png 'microCMS')
 ![Google Analytics](/tools/google-analytics.png 'Google Analytics')
 ![Datadog](/tools/datadog.png 'Datadog')
