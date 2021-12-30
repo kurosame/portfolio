@@ -1,45 +1,11 @@
 references:
   commands:
-    setup-docker-base: &setup-docker-base
-      docker:
-        - image: circleci/node:14.16.0
     setup-docker-lighthouse: &setup-docker-lighthouse
       docker:
         - image: circleci/node:14.16.0-browsers
 
 version: 2
 jobs:
-  outdated:
-    <<: *setup-docker-base
-    steps:
-      - checkout
-      - restore_cache:
-          name: Download and cache dependencies
-          keys:
-            - v2-dependencies-{{ checksum "package-lock.json" }}
-            - v2-dependencies-
-      - run:
-          name: Install dependencies
-          command: npm ci
-      - save_cache:
-          name: Cache dependencies
-          paths:
-            - ~/.npm
-          key: v2-dependencies-{{ checksum "package-lock.json" }}
-      - run:
-          name: Outdated
-          command: |
-            PAYLOAD=`cat << EOF
-            {
-              "attachments": [
-                {
-                  "pretext": "portfolio's Outdated",
-                  "text": '$(npm outdated)'
-                }
-              ]
-            }
-            EOF`
-            curl -X POST -d "payload=$PAYLOAD" $SLACK_WEBHOOK_URL
   lighthouse:
     <<: *setup-docker-lighthouse
     steps:
@@ -88,5 +54,4 @@ workflows:
               only:
                 - master
     jobs:
-      - outdated
       - lighthouse
