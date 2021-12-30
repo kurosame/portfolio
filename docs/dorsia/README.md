@@ -1,6 +1,6 @@
 # Summary
 
-2021/03〜
+2021/03〜2021/09
 
 Facebook、Twitter、LINE の媒体入稿管理システム  
 API 入稿は行わず、入稿用バルクを出力する
@@ -14,7 +14,7 @@ API 入稿は行わず、入稿用バルクを出力する
 # Technology
 
 ![React](/tools/react.png 'React')
-![AWS‎](/tools/aws.png 'AWS‎')
+![AWS](/tools/aws.png 'AWS')
 
 # Ecosystem
 
@@ -28,7 +28,7 @@ API 入稿は行わず、入稿用バルクを出力する
 
 React Hooks で実装
 
-## AWS‎
+## AWS
 
 - CloudFront
 
