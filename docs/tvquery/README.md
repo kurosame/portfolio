@@ -13,7 +13,7 @@
 
 ![Svelte](/tools/svelte.png 'Svelte')
 ![Scala](/tools/scala.png 'Scala')
-![AWS‎](/tools/aws.png 'AWS‎')
+![AWS](/tools/aws.png 'AWS')
 
 # Ecosystem
 
@@ -28,7 +28,7 @@
 ![Cats](/tools/cats.png 'Cats')
 ![http4s](/tools/http4s.png 'http4s')
 
-## AWS‎
+## AWS
 
 - ECS
 - VPC

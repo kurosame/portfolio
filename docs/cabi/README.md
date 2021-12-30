@@ -39,7 +39,7 @@ Datadog の設定
 ![Figma](/tools/figma.png 'Figma')
 ![Vue.js](/tools/vuejs.png 'Vue.js')
 ![Scala](/tools/scala.png 'Scala')
-![AWS‎](/tools/aws.png 'AWS‎')
+![AWS](/tools/aws.png 'AWS')
 ![Digdag](/tools/digdag.png 'Digdag')
 ![Hubot](/tools/hubot.png 'Hubot')
 ![Datadog](/tools/datadog.png 'Datadog')
@@ -58,7 +58,7 @@ Datadog の設定
 ![Cats](/tools/cats.png 'Cats')
 ![http4s](/tools/http4s.png 'http4s')
 
-## AWS‎
+## AWS
 
 - ECS
 - Fargate

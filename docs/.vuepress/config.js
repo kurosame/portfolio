@@ -5,18 +5,9 @@ module.exports = {
     ['meta', { name: 'theme-color', content: 'white' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '72x72' }],
-    [
-      'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '114x114' }
-    ],
-    [
-      'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '120x120' }
-    ],
-    [
-      'link',
-      { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '144x144' }
-    ],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '114x114' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '120x120' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png', sizes: '144x144' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
   themeConfig: {
@@ -92,6 +83,7 @@ module.exports = {
             title: 'Business',
             collapsable: false,
             children: [
+              ['/aim/', 'チャットボット [非公開]'],
               ['/dorsia/', '媒体入稿システム [非公開]'],
               ['/cap/', '振り返りレポート生成 [非公開]'],
               ['/cabi/', 'CA Dashboard'],

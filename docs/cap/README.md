@@ -19,7 +19,7 @@
 ![Figma](/tools/figma.png 'Figma')
 ![Vue.js](/tools/vuejs.png 'Vue.js')
 ![Scala](/tools/scala.png 'Scala')
-![AWS‎](/tools/aws.png 'AWS‎')
+![AWS](/tools/aws.png 'AWS')
 ![Digdag](/tools/digdag.png 'Digdag')
 
 # Ecosystem
@@ -38,7 +38,7 @@ Composition API で実装
 ![http4s](/tools/http4s.png 'http4s')
 ![doobie](/tools/doobie.png 'doobie')
 
-## AWS‎
+## AWS
 
 - CloudFront
 - AssumeRole
