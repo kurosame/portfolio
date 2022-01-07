@@ -14,6 +14,8 @@
   - [書いた記事](https://kurosame-th.hatenadiary.com/entry/2019/03/30/204921)
 - [天気通知アプリ](https://github.com/kurosame/bots-python/blob/master/bots/weather.py)
   - [書いた記事](https://qiita.com/kurosame/items/b6dbc5a7d900e6dc2b6f)
+- [戦術的 DDD のスニペット](https://github.com/kurosame/ddd-snippet)
+  - React
 
 # Technology
 
