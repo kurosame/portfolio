@@ -13,6 +13,6 @@
     "build": "vuepress build docs"
   },
   "volta": {
-    "node": "16.13.1"
+    "node": "16.13.2"
   }
 }
