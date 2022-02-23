@@ -8,6 +8,7 @@
 - Google 認証（Firebase Authentication）
 - DB は Firebase（Storage にアップロードしたファイルを Functions で処理して、Firestore に保存している）
 - Web プッシュ通知（Firebase Cloud Messaging + Service Worker）
+- PWA
 
 # Hosting
 
