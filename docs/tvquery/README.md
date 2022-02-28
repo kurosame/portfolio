@@ -30,6 +30,7 @@
 
 ## AWS
 
+- CloudFront
 - ECS
 - VPC
 
