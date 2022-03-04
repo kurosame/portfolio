@@ -31,7 +31,8 @@
 ## AWS
 
 - CloudFront
-- ECS
+- ECS + Fargate
+- AppSync + DynamoDB
 - VPC
 
 ## Dev

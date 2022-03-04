@@ -60,7 +60,7 @@ Datadog の設定
 
 ## AWS
 
-- ECS
+- ECS + Fargate
 - Fargate
 - Lambda
 
