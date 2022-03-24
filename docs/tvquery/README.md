@@ -7,7 +7,7 @@
 
 # Hosting
 
-[テレビ番組検索アプリ](https://d2n4vw7lghzxsy.cloudfront.net)
+[テレビ番組検索アプリ](http://d2n4vw7lghzxsy.cloudfront.net)
 
 # Technology
 

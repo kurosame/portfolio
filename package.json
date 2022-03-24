@@ -5,7 +5,7 @@
     "vuepress": "1.9.7"
   },
   "devDependencies": {
-    "lighthouse": "9.2.0"
+    "lighthouse": "9.5.0"
   },
   "private": true,
   "scripts": {
@@ -13,6 +13,6 @@
     "build": "vuepress build docs"
   },
   "volta": {
-    "node": "16.13.2"
+    "node": "16.14.2"
   }
 }
