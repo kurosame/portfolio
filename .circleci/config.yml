@@ -2,7 +2,7 @@ references:
   commands:
     setup-docker-lighthouse: &setup-docker-lighthouse
       docker:
-        - image: cimg/node:16.14.2-browsers
+        - image: circleci/node:16.13.0-browsers
 
 version: 2
 jobs:
@@ -36,7 +36,7 @@ jobs:
               "attachments": [
                 {
                   "pretext": "portfolio's Lighthouse",
-                  "text": "https://${CIRCLE_BUILD_NUM}-${CIRCLE_CI_REPOSITORY_ID}-gh.circle-artifacts.com/0/lighthouse-results.html",
+                  "text": "https://output.circle-artifacts.com/output/job/${CIRCLE_WORKFLOW_JOB_ID}/artifacts/${CIRCLE_NODE_INDEX}/lighthouse-results.html",
                 }
               ]
             }
