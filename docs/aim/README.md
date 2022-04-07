@@ -21,10 +21,10 @@
 
 ![TypeScript](/tools/typescript.png 'TypeScript')
 ![Redux](/tools/redux.png 'Redux')
-
-React Hooks で実装
+![Emotion](/tools/emotion.png 'Emotion')
 
 ## Dev
 
-![Jest](/tools/jest.png 'Jest')
+![Storybook](/tools/storybook.png 'Storybook')
+![Vitest](/tools/vitest.png 'Vitest')
 ![GitHub Actions](/tools/github-actions.png 'GitHub Actions')

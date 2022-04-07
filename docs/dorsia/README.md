@@ -26,8 +26,6 @@ API 入稿は行わず、入稿用バルクを出力する
 ![Semantic UI React](/tools/semantic-ui-react.png 'Semantic UI React')
 ![Tailwind CSS](/tools/tailwind-css.png 'Tailwind CSS')
 
-React Hooks で実装
-
 ## AWS
 
 - CloudFront
