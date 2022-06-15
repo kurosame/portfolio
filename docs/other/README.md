@@ -8,6 +8,8 @@
   - VuePress
 - [晩御飯を決めるアプリ [非公開]](https://github.com/yumchaa/gohan)
   - Weex のみ
+- [Twitter RSS Filter](https://github.com/kurosame/bots-go/tree/main/bots/rss)
+  - Go + GCP + Terraform
 - [競馬情報スクレイピングアプリ](https://github.com/kurosame/keiba-db)
 - ロト 6 当選番号予測アプリ
   - scikit-learn
@@ -24,3 +26,5 @@
 ![Weex](/tools/weex.png 'Weex')
 ![Go](/tools/go.png 'Go')
 ![Python](/tools/python.png 'Python')
+![GCP](/tools/gcp.png 'GCP')
+![Terraform](/tools/terraform.png 'Terraform')
