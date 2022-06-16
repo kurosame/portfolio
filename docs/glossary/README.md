@@ -27,8 +27,8 @@
 
 ![Redux](/tools/redux.png 'Redux')
 ![TypeScript](/tools/typescript.png 'TypeScript')
-![styled-components](/tools/styled-components.png 'styled-components')
-![Material-UI](/tools/material-ui.png 'Material-UI')
+![Emotion](/tools/emotion.png 'Emotion')
+![Material-UI](/tools/mui.png 'Material-UI')
 
 ## Firebase
 
