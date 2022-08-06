@@ -10,7 +10,8 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "fixpack": "npx fixpack"
   },
   "volta": {
     "node": "16.14.2"
