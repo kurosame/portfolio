@@ -24,7 +24,7 @@
 
 # Hosting
 
-[ウェブサイト](https://luna-hp.pages.dev)
+[ウェブサイト](https://naocomic.com)
 
 # Technology
 
@@ -37,7 +37,7 @@
 
 ![Nuxt.js](/tools/nuxtjs.png 'Nuxt.js')
 ![TypeScript](/tools/typescript.png 'TypeScript')
-![Buefy](/tools/buefy.png 'Buefy')
+![Element Plus](/tools/element-plus.png 'Element Plus')
 
 Composition API で実装
 
