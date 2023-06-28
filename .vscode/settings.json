@@ -1,3 +1,20 @@
 {
-  "cSpell.words": ["automerge", "circleci", "firestore", "fixpack", "nuxt", "scikit", "vuejs", "vuepress", "weex"]
+  "cSpell.words": [
+    "automerge",
+    "circleci",
+    "cloudinary",
+    "digdag",
+    "fargate",
+    "firestore",
+    "fixpack",
+    "hubot",
+    "jamstack",
+    "nuxt",
+    "scikit",
+    "vuejs",
+    "vuepress",
+    "vuetify",
+    "vuex",
+    "weex"
+  ]
 }
