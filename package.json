@@ -5,7 +5,7 @@
     "vuepress": "1.9.7"
   },
   "devDependencies": {
-    "lighthouse": "9.6.8"
+    "lighthouse": "11.7.1"
   },
   "private": true,
   "scripts": {
