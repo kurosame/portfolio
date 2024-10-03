@@ -14,6 +14,6 @@
     "fixpack": "npx fixpack"
   },
   "volta": {
-    "node": "16.18.1"
+    "node": "20.18.0"
   }
 }
